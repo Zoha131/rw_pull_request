@@ -15,6 +15,9 @@ class ViewController: UIViewController {
     // Do any additional setup after loading the view.
   }
 
+    func doSomethingCool() {
+        print("this function does something awesome!")
+    }
 
 }
 
