@@ -16,8 +16,8 @@ class ViewController: UIViewController {
   }
 
     func doSomethingCool() {
-        print("this function does something awesome!")
+        print("this function does something awesome and in a better way!")
     }
-
+    
 }
 
