@@ -15,6 +15,10 @@ class ViewController: UIViewController {
     // Do any additional setup after loading the view.
   }
 
+    func doSomethingCool() {
+        print("this function does something awesome and in a better way!")
+    }
+    
   func pullData(){
     for _ in 1...10 {
       print("Downloading data from server")
