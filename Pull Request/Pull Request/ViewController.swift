@@ -15,6 +15,12 @@ class ViewController: UIViewController {
     // Do any additional setup after loading the view.
   }
 
-
+  func pullData(){
+    for _ in 1...10 {
+      print("Downloading data from server")
+    }
+    
+    print("Download Completed :]")
+  }
 }
 
