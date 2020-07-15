@@ -23,7 +23,8 @@ class ViewController: UIViewController {
     for _ in 1...10 {
       print("Downloading data from server")
     }
-    
+
+    // for git commit description
     print("Download Completed :]")
   }
 }
