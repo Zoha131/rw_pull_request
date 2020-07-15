@@ -26,6 +26,7 @@ class ViewController: UIViewController {
 
     // for git commit description
     // Second time trial
+    // from command line
     print("Download Completed :]")
   }
 }
